@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\repos\BSU-OS-labs\lab3\x64\Debug\ThreadSynchronization.exe</FullPath>
+      <FullPath>D:\GitHub\BSU_OS\laba3\x64\Debug\ThreadSynchronization.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
