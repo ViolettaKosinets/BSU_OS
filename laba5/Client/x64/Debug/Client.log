@@ -1,3 +1,0 @@
-﻿  Client.cpp
-C:\Users\Admin\source\repos\Server\Client\Client.cpp(138,10): warning C4101: 'bytesRead': unreferenced local variable
-  Client.vcxproj -> C:\Users\Admin\source\repos\Server\x64\Debug\Client.exe
