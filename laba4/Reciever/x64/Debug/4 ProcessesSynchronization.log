@@ -1,0 +1,8 @@
+﻿  Receiver.cpp
+<<<<<<< HEAD
+E:\GitHub\BSU-Dysciplines\Operating-Systems\4. ProcessesSyncronization\Reciever\Receiver.cpp(28,57): warning C4244: 'argument': conversion from '__int64' to 'LONG', possible loss of data
+  4 ProcessesSynchronization.vcxproj -> E:\GitHub\BSU-Dysciplines\Operating-Systems\4. ProcessesSyncronization\Reciever\x64\Debug\Receiver.exe
+=======
+D:\GitHub\BSU-Dysciplines\Operating-Systems\4. ProcessesSyncronization\Reciever\Receiver.cpp(28,57): warning C4244: аргумент: преобразование "__int64" в "LONG", возможна потеря данных
+  4 ProcessesSynchronization.vcxproj -> D:\GitHub\BSU-Dysciplines\Operating-Systems\4. ProcessesSyncronization\Reciever\x64\Debug\Receiver.exe
+>>>>>>> 7545492234984373973f0f119b95167c1b80c203
